@@ -1,8 +1,8 @@
-√# _voter-info_
+# _celebrity-dating-2023_
 
-#### By _**Kai Clausen and Vera Weikel**_
+#### By _**Vera Weikel and Kai Clausen**_
 
-#### _Creates a voter information page_
+#### _Creates a celebrity dating quiz_
 
 ## Technologies Used
 
@@ -12,13 +12,11 @@
 
 ## Description
 
-_Create a page that offers users information about the voting process._
+_Creates a page that returns a compatible celebrity based on user input._
 
 
-* The page should prompt the user to enter their current age.
-* If the user is too young to vote, they should see different information than if the user is old enough to legally vote.
-* Minors should be offered links to websites where they may learn about the voting process and age requirements.
-* Those old enough to vote should be offered links to websites to register to vote, locate their nearest polling location/ballot drop box is, or list when upcoming elections will take place.
+* This page will ask users to input information about themselves. 
+* If the user matches the parameters of a certain celebrity, it will print out their names.
 
 ## Setup/Installation Requirements
 
@@ -35,4 +33,4 @@ _Create a page that offers users information about the voting process._
 
 _MIT - Should any problems arise, feel free to fix them yourself, or reach out to Kai at kaiclausen123@gmail.com or Vera at vera.weikel@gmail.com_
 
-Copyright (c) _2023_ _Kai Clausen and Vera Weikel_
+Copyright (c) _2023_ _Vera Weikel and Kai Clausen_
